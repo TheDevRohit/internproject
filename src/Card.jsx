@@ -26,7 +26,6 @@ function Card() {
                <Expertstile name="Vasl Musks" location="USA" image="https://media.licdn.com/dms/image/D4D35AQHJja_TjaGtfA/profile-framedphoto-shrink_200_200/0/1690254909645?e=1702537200&v=beta&t=vo7b3rTeXYKFgVs48KhME25qgnLf-puTwjjcxSdrxfE"></Expertstile>  
                <Expertstile name="Vasl Musks" location="USA" image="https://media.licdn.com/dms/image/D4D35AQHJja_TjaGtfA/profile-framedphoto-shrink_200_200/0/1690254909645?e=1702537200&v=beta&t=vo7b3rTeXYKFgVs48KhME25qgnLf-puTwjjcxSdrxfE"></Expertstile>  
             </div>
-
         </div>   
      )
 }
